@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Harsh Kumar Raghav
-- 👀 I’m interested in javascript
-- 🌱 I’m currently learning React native
-- 💞️ I’m looking to collaborate on frontend project
+- 👀 I’m interested in javascript, typescript and go
+- 🌱 I’m currently learning React Native.
 - 📫 How to reach me raghavharsh068@gmail.com
 
 <!---
